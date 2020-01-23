@@ -1,0 +1,38 @@
+/categories/home: {
+	linkText: "Home",
+	showInNav: false,
+	displayPriority: 0,
+	description: "",
+	images: [
+		{
+			thumbUrl: '#',
+			imageUrl: '#',
+			orientation: 'portrait|landscape',
+			mimeType: 'image/jpg|image/jpeg|image/png'
+			bytes: 1000000,
+			added: '2020-01-01 00:00:00.000',
+			title: 'Image title',
+			caption: 'Image Caption'
+		},
+		{
+			thumbUrl: '#',
+			imageUrl: '#',
+			orientation: 'portrait|landscape',
+			mimeType: 'image/jpg|image/jpeg|image/png'
+			bytes: 1000000,
+			added: '2020-01-01 00:00:00.000',
+			title: 'Image title',
+			caption: 'Image Caption'
+		},
+		{
+			thumbUrl: '#',
+			imageUrl: '#',
+			orientation: 'portrait|landscape',
+			mimeType: 'image/jpg|image/jpeg|image/png'
+			bytes: 1000000,
+			added: '2020-01-01 00:00:00.000',
+			title: 'Image title',
+			caption: 'Image Caption'
+		}
+	]
+}
